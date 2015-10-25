@@ -1,0 +1,13 @@
+---
+title: "HelloWorld"
+output: 
+  html_document: 
+    theme: readable
+---
+
+## This is a markdown file
+## It contains little of value
+
+* It does have a list
+* And one or two other basics
+* like a link to a website <http://coursera.org>
